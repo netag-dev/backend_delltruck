@@ -1,0 +1,5 @@
+# transportadora/schemas/__init__.py
+
+from .transportadoraCreateSchema import TransportadoraCreateSchema
+from .transportadoraResponseSchema import TransportadoraResponseSchema
+from .transportadoraEditSchema import TransportadoraEditSchema
